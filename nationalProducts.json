@@ -1,0 +1,132 @@
+{
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_8d64dc4bed394e9887ac9a579f20d337~mv2.jpg/v1/crop/x_299,y_0,w_3772,h_2789/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/shutterstock_220363513.webp",
+  "name": "Mora",
+  "description": "La Mora contiene antioxidantes naturales, vitaminas A, C y E  y minerales como el zinc y el manganeso que benefician el sistema inmune, reforzando las defensas. Aporta fibra dietaria, que facilita el tránsito intestinal.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_ba88eba824524d63a34e2cedf09ed2cc~mv2.jpg/v1/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/Tamarindo.webp",
+  "name": "Tamarindo",
+  "description": "El tamarindo es una excelente fuente de nutrientes, ya que por cada 100g aporta 239 kcal, 56,7 g de carbohidratos, 2,3 g de proteínas y 0,6 g de grasa. Además, contiene importantes minerales como el calcio, el hierro, el potasio, el magnesio, el zinc, el fósforo y el sodio, así como vitaminas de los grupos B, C y E.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_f205c63ddfdd4ed6ba33f5ae0752df58~mv2.jpg/v1/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/shutterstock_1331356523.webp",
+  "name": "Maracuya",
+  "description": "El maracuyá disminuye considerablemente la presión arterial, ayuda a las personas a perder peso gracias a  la fibra. Combate el estreñimiento y mejora el tránsito intestinal. Reduce las tasas de colesterol en sangre. Gracias a su propiedades antiinflamatorias y analgésicas, es muy recomendable para personas con artritis reumatoide. Ayuda a eliminar sustancias tóxicas del organismo y mejora el sistema renal. Contiene  vitaminas A y C.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_e0478f80ec1f4fffb6a750b235833d29~mv2.png/v1/crop/x_1,y_0,w_3764,h_2783/fill/w_614,h_454,al_c,q_85,usm_0.66_1.00_0.01/cas.webp",
+  "name": "Cas",
+  "description": "El cas es rico en antioxidantes,  fuente de vitamina C, se considera un hidratante natural: Más del 80% de su peso es en agua, lo que facilita la eliminación de toxinas y lo convierte en un hidratante natural, también por aportar potasio. Es una fruta rica en fibra, en especial si se consume entero, con su cáscara, el cas se considera una fuente de fibra, y una fruta con bajo índice glicémico, por lo que es una opción diferente y rica para personas que se cuidan de la cantidad de azúcar que consumen.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_d49353195aa34c08a59e1b24b115d4d0~mv2.jpg/v1/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/Naranjilla.webp",
+  "name": "Naranjilla",
+  "description": "La naranjilla posee propiedades   diuréticas, lo que ayuda al organismo en cuanto al desecho de toxinas por vía urinaria; incrementa la calidad y cantidad en la formación del cabello y las uñas, además de fortalecer los huesos; también disminuye ligeramente los niveles de colesterol malo en el cuerpo por su contenido ácido.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_ff77c534cc9d45f4a28516490402e61e~mv2.jpg/v1/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/Carambola.webp",
+  "name": "Carambola",
+  "description": "La carambola es muy baja en calorías y en carbohidratos, contiene vitamina C, vitaminas B5, B3, A, E, B1 y B6. Entre sus minerales destacan el cobre, el potasio, el magnesio, el manganeso, el fósforo, selenio y zinc. Nos ayuda a mejorar el sistema inmunológico y promueve la salud de nuestra piel, cabello y uñas. Además, ayuda a mejorar la absorción del hierro y de calcio.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_f952126a36c44e07b3e5529335104a85~mv2.jpg/v1/crop/x_17,y_0,w_1082,h_800/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/guayaba.webp",
+  "name": "Guayaba",
+  "description": "La guayaba es una fruta que contiene mucha agua y pocas calorías. Contiene vitamina A, E, D12 y especialmente en vitamina C, incluso más que los cítricos. Es rica en hierro, cobre, calcio, magnesio, potasio, manganeso y fósforo. La fruta posee altas dosis de ácido ascórbico, compuesto que ayuda a combatir diversas enfermedades degenerativas. La guayaba es además una fuente de fibra para el organismo.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_4b67c81c779244fdaa0c310295b4dd3d~mv2.jpg/v1/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/Tomate%20arbol.webp",
+  "name": "Tomate de árbol",
+  "description": "El tomate de árbol contiene Vitamina A, B6, C y E, hierro y potasio, que además es bajo en calorías y alto en fibra.  Es especialmente rica en agua y vitaminas, entre las que destacan la provitamina A y la vitamina C de acción antioxidantes. 
+
+Se aconseja su consumo a la hora de prevenir y reducir el riesgo de enfermedades degenerativas, cardiovasculares y el cáncer, gracias a la presencia de vitaminas antioxidantes como la vitamina A y C.
+
+Por su contenido en fibra soluble ayuda a prevenir y mejorar el estreñimiento. Además, es útil en caso de colesterol alto, y es beneficiosa en el control de la diabetes.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_327c716d3b1d4ae0a2ccdc7a600be90b~mv2.jpg/v1/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/af2bd6ebf121bb020134709fac6e6e72.webp",
+  "name": "Curuba",
+  "description": "La  curuba es una fruta muy conocida por su particular sabor y su versatilidad: se puede consumir fresca, en forma de jugos, sorbetes con leche, helados, postres y mermeladas. Pero además de, posee alto contenido en agua, fibra y es rica en calcio, fósforo, hierro, vitaminas A, B1, B2, B3 y C. Posee propiedades sedantes que la hacen ideal para disminuir el estrés inducir el sueño y reducir la ansiedad. Puede utilizarse como antiespasmódico y diurético natural y es útil en casos de presión arterial alta, de fiebre, retención de líquidos acumulados y dolores de cabeza.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_8b96aed8f29c4330a45a0cc02df41ad0~mv2.jpg/v1/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/Manzana.webp",
+  "name": "Manzana Nacional",
+  "description": "La manzana tiene un alto contenido en fibras son ricas en antioxidantes, contiene vitaminas del grupo B y C, ricas en minerales como el fósforo, potasio o calcio, de ácido málico y ácido tartárico. Facilitan la digestión de alimentos ricos en grasas. Ayudan a cuidar los dientes y las encías. Además ayuda a evitar el estreñimiento.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_31c50e4ba8684580a335ced8dc551cc1~mv2.jpg/v1/fill/w_600,h_444,al_c,lg_1,q_80/Chirimoya-500x500.webp",
+  "name": "Anona",
+  "description": "La anona no solo tiene buen sabor, también posee muchas propiedades, ya que es rica en proteínas, hierro, calcio, fósforo, además de vitaminas y carbohidratos ,trayendo beneficios  para una buena salud. Por ser rica en fibra, esta es una fruta que ayuda a regularizar el intestino y a eliminar toxinas del organismo.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_b1eac6ad19914ce5936606a28498c647~mv2.jpg/v1/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/Granadilla.webp",
+  "name": "Granadilla",
+  "description": "La granadilla es una excelente fuente de potasio, calcio, fósforo y hierro. Además, contiene proteínas y carbohidratos saludables. Provee al cuerpo de vitaminas esenciales como la vitamina A, B1, B2, B3, B9, C, E, K y la provitamina A.Es muy efectiva como laxante y estimulante digestivo. Además, controla la acidez y ayuda a cicatrizar las ulceras estomacales. Al consumirse entera, con semillas, presenta un alto contenido de fibra, muy beneficioso para la salud.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_84808aa8e01047afb3342b44a7a6e3c0~mv2.jpg/v1/crop/x_59,y_0,w_1082,h_800/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/Uchuva.webp",
+  "name": "Uchuva",
+  "description": "Considerada dentro del listado de los super alimentos, la uchuva o bien conocida como “fruta del amor”, es fuente de vitamina A, B y C, fibra, potasio, fósforo, hierro y zinc.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_12069dc5de70499da96993b075182505~mv2.jpg/v1/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/Fresa.webp",
+  "name": "Fresa",
+  "description": "Las Fresas son bajas en calorías, ayudan a disminuir el nivel de colesterol malo en sangre, gracias a la gran cantidad de ácido ascórbico, lecitina y pectina que contiene son una fuente de vitaminas del grupo B, como la vitamina B6, la niacina, la riboflavina, el ácido pantoténico o el ácido fólico.
+
+Actúa como un potente antioxidante y antiinflamatorio natural. Contribuyen a la salud ósea, gracias a su alto contenido en magnesio, potasio y vitamina K. Ayudan a perder peso, por su bajo contenido calórico y su alto contenido en nitrato.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_332fde3117664e0884a9bf85dbe51da4~mv2.jpg/v1/crop/x_0,y_6,w_1067,h_789/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/jalape%C3%83%C2%B1o.webp",
+  "name": "Chile Jalapeño",
+  "description": "os productos que usamos en nuestras cocinas frecuentemente, este cuanta con las siguientes propiedades para nuestra salud: 
+Contiene capsaicina que se receta para tratar arrugas, tics faciales, problemas del corazón y tratamiento para artritis. 
+Ayuda a abrir las vías respiratorias y despejar la mucosa de alguien con gripe.
+Ayuda a mejorar la circulación sanguínea, ya que es un excelente anticoagulante.
+
+Es desparasitante
+Son alimentos termogénicos, por lo que queman grasa naturalmente y sin dañar a tu organismo. 
+Ayuda a reparar y fortalecer los vasos sanguíneos en el cuerpo de forma natural.
+Poseen antioxidantes, sustancias que retardan el proceso de envejecimiento de las células del cuerpo. 
+También libera endorfinas en el cerebro, lo que fomenta el buen humor.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
+  {
+  "thumbnailUrl": "https://static.wixstatic.com/media/bcbdd1_12d7e203f2c44b9db61f4b7c53efe256~mv2.jpg/v1/fill/w_614,h_454,al_c,q_80,usm_0.66_1.00_0.01/paname%C3%83%C2%B1o.webp",
+  "name": "Chile Panameño",
+  "description": "El chile habanero o panameño es uno de los favoritos de muchos, pero también hay quienes lo evitan por su intenso sabor picoso. Lo que pocos saben es que las propiedades del chile habanero aportan múltiples beneficios a la salud, entre ellos:
+Al ser uno de los chiles más picantes que existen, el chile habanero contiene altos niveles de capsaicina, el cual funciona como un antiinflamatorio natural que ayuda a tratar la artritis y los dolores de cabeza.
+Puede aliviar padecimientos intestinales crónicos y ayudar al proceso digestivo, previniendo algunos tipos de cáncer como de intestino, colon y estómago.
+Proporciona vitamina C, que fortalece el sistema inmunológico y se utiliza en la construcción de colágeno para los huesos, dientes y tejidos conectivos.
+Además, por sus niveles de carotenoides, el chile habanero también proporciona vitamina A, que es ideal para una función ocular óptima.
+Se ha comprobado que una dieta que incluya el consumo regular de chile habanero puede ayudar a regular los niveles de insulina, especialmente en personas con sobrepeso. Asimismo, disminuye el colesterol en la sangre.",
+  "active": true,
+  "btnQuote":"Cotizar",
+  },
